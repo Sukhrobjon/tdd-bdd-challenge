@@ -87,7 +87,7 @@ it("Should remove items from cart", function() {
 // ========================================================
 
 it("Should update the count of items in the cart");
-
+ "Go Back and check commit"
 it("Should validate that an empty cart has 0 items");
 
 it("Should return the total cost of all items in the cart");
